@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patrickmwangi017&label=Profile%20views&color=0e75b6&style=flat" alt="patrickmwangi017" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patrickmwangi017" alt="patrickmwangi017" /></a> </p>
+<p align="left"> ![](https://github-profile-trophy.vercel.app/?username=patrickmwangi017&theme=radical&no-frame=true&no-bg=false&margin-w=4) </p>
+![](https://github-profile-trophy.vercel.app/?username=patrickmwangi017&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 - 🔭 I’m currently working on [Cheche](https://cheche.et)
 
